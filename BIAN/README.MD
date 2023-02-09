@@ -1,1 +1,1 @@
-
+Voici un fichier regroupant les informations retenues lors de la sortie au musée nommé Arsenal art contemporain. Dans celui-ci, il se trouve mes croquis, les notes prisent pendant l'activité, les meilleures photos capturées de l'oeuvre sélectionnée et une fiche finale à laquelle le travail final se trouvera.
