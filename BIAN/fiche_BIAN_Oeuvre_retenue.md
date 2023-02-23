@@ -65,6 +65,12 @@ explore la forme et le mouvement des robots à travers la musique, le son et la 
   
 ![pas](medias/pas.jpg)
   
+  <h4> Expérience vécue : L'oeuvre se trouve être comme un spectacle, les spectateurs se positionnent assis ou debout devant les robots et les regarde danser. Cela dure environ 12-13 minutes. Personnellement, j'ai trouvé l'oeuvre spectaculaire mais j'ai tout de même eu l'impression qu'il se répetait beaucoup me lassant après 5 minutes. J'ai beaucoup aimé les jeux de lumière mais le robot principal (celui en avant) gachais tout avec les lumières trop fortes </h4>
+  <h4> Voici une vidéo de l'oeuvre en action : https://youtu.be/YsYKgti_BAU </h4>
+  
+  <h4> Ce qu'il m'a plu : J'ai beaucoup apprécié le principe futuriste du projet, le fait que les robots devraient être aussi divertis dans le futur est intéressant. Les jeux de lumière étaient aussi superbes j'aimerais aussi faire des projets aussi impressionnant que celui-ci. Il y a tellement de détail que j'avais toujours quelques choses à regarder. </h4>
+  
+  
   
   
   
