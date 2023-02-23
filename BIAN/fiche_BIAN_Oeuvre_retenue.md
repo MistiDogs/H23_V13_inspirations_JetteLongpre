@@ -46,6 +46,30 @@ explore la forme et le mouvement des robots à travers la musique, le son et la 
 
 * audio stéréo
 
+![Cote](medias/cote.jpg)
+![crane](medias/crane.jpg)
+![disco](medias/disco.jpg)
+![led](medias/led.jpg)
+![led02](medias/led02.jpg)
+![robot](medias/robot.jpg)
+
+<h4> Éléments nécessaires à la mise en exposition	<h4>
+
+  
+  * Les poteaux métaliques
+  
+  * Les câbles tenants en suspension les robots
+  
+  * Papier collant eletrique afin de sécuriser les robots
+ 
+  
+![pas](medias/pas.jpg)
+  
+  
+  
+  
+  
+
 
 
 
