@@ -28,7 +28,7 @@ explore la forme et le mouvement des robots à travers la musique, le son et la 
 
 ![parlante](medias/parlante.jpg)
 
-<h4> L'œuvre est dans une salle dédiée aux installations multimédias. Il est délimité par quatre poteaux métalliques, étant relié entre eux sur le dessus. La pièce forme un cube. Dans celui-ci se trouvent plusieurs robots étant suspendu par des câbles. </h4>
+<h4> En entrant dans la salle dédiée aux installations multimédias, on ne peut manquer de remarquer l'œuvre majestueuse qui s'y trouve. Elle est installée au centre de la pièce et attire immédiatement le regard. Délimitée par quatre poteaux métalliques, reliés entre eux sur le dessus, elle prend la forme d'un cube qui semble flotter dans l'espace. Le cube en question est bien plus qu'une simple structure géométrique : il abrite plusieurs robots, suspendus dans les airs par des câbles. Leur apparence futuriste et leurs mouvements gracieux donnent l'impression qu'ils sont en train d'interagir avec leur environnement, créant ainsi une expérience immersive pour le spectateur. La lumière joue un rôle crucial dans la mise en valeur de cette œuvre. Des jeux d'ombres et de lumières mettent en relief les contours du cube et des robots, créant ainsi des effets visuels étonnants. Les couleurs changeantes, passant du bleu au rouge en passant par le vert, contribuent à créer une ambiance mystérieuse et envoûtante. En observant attentivement cette œuvre, on ne peut s'empêcher de se demander quelle est son intention.. </h4>
 
 ![robotvueair](medias/robotvueair.png)
 
@@ -69,6 +69,12 @@ explore la forme et le mouvement des robots à travers la musique, le son et la 
   <h4> Voici une vidéo de l'oeuvre en action : https://youtu.be/YsYKgti_BAU </h4>
   
   <h4> Ce qu'il m'a plu : J'ai beaucoup apprécié le principe futuriste du projet, le fait que les robots devraient être aussi divertis dans le futur est intéressant. Les jeux de lumière étaient aussi superbes j'aimerais aussi faire des projets aussi impressionnant que celui-ci. Il y a tellement de détail que j'avais toujours quelques choses à regarder. </h4>
+
+![parlante](medias/parlante.jpg)
+  
+  <h4> Ce que je n'ai pas trop aimé : J'ai abhorré le fait que le robot en avant faisait énormément de lumière, bien que celui-ci soit impressionnant il m'aveuglait complètement. Ce que je retiens c'est d'essayer de ne pas tout parrier sur l'un de mes oeuvres entourer d'autres afin de leur laisser tous un moment de gloire. </h4>
+  
+  
   
   
   
