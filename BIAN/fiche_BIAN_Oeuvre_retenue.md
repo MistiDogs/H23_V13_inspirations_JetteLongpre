@@ -24,6 +24,16 @@
 
 ![parlante](medias/parlante.jpg)
 
+<h4> L'œuvre est dans une salle dédiée aux installations multimédias. Il est délimité par quatre poteaux métalliques, étant relié entre eux sur le dessus. La pièce forme un cube. Dans celui-ci se trouvent plusieurs robots étant suspendu par des câbles. </h4>
+
+![robotvueair](medias/robotvueair.jpg)
+
+
+
+
+
+
+
 
 
 
