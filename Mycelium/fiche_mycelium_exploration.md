@@ -52,6 +52,17 @@ L'installation invite les participants à participer activement à l'œuvre, en 
 
 <p> Pour terminer, le cours "Objets interactifs" serait essentiel pour apprendre à concevoir et à programmer des dispositifs interactifs tels que le vélo modifié utilisé dans l'installation. Ce cours permettrait également d'explorer les différentes façons de connecter des objets physiques à des systèmes technologique, ce qui est une compétence clé pour la réalisation de toute installation interactive. </p>
 
+<h2> Une composante inconnue du projet </h2>
+<p> Personnellement, je n'sais pas comment fonctionne l'outil afin de détecter les mouvements. Pour plus de détails, lors de la rotation de la roue, tout le système démarre. Je n'sais pas quel détecteur de mouvements qu'il s'agit alors je me suis informé sur les détecteurs à infrarouge. Selon les informations que j'ai récupérer, celui-ci permet d'analyser la chaleur dégagée. La chaleur émise par la roue produit un rayonnement infrarouge. Grâce à ce rayonnement infrarouge, des capteurs peuvent détecter la présence du mouvement. </p>
+<h5> Les informations ont été récuperer depuis le site : https://www.nexecur.fr/detecteur-de-mouvement-infrarouge-comment-fonctionne#:~:text=Le%20d%C3%A9tecteur%20de%20mouvement%20est,d%C3%A9tecter%20la%20pr%C3%A9sence%20d'intrus </h5>
+<h2> Mon jugement final</h2>
+<p> Grâce aux nombreuse informations que j'ai reçues lors de la visite, je crois que celui-ci serait mon projet préféré. J'aime beaucoup le concept de voyager parmi les quatre saisons nous faisant réfléchir sur nos impacts sur l'environnement. J'imagine que ce projet parle de ce que grâce au vélo produisant aucune pollution, nous pouvons voyager parmi le futur sans s'arrêter. J'aime aussi l'idée de mettre des chargeurs de téléphone. Grâce à cela, ce projet attirera les âmes égarés autour du cegep. Bien évidemment je rigole avec les âmes égarées. </p>
+<h2> Ce que je crois ressentire lors de l'expérimentation future </h2>
+<p> Personnellement je crois que ça me ferais réfléchir. Le fait de pédaller pour avancer dans la nature et assez curieux comme idée. Je rensetirais probablement aussi de la paix enterieur pendant un cours moment et de l'admiration pour ce projet. J'imagine deja l'installation et ce seras super. </p>
+	
+	
+	
+
 
 
 
