@@ -11,8 +11,6 @@
 En effet, lors de la présentation de ce projet, les créateurs et créatrices nous ont décrit l'oeuvre ; elle consiste en un vélo modifié qui permet de charger des USB pour les téléphones en pédalant. En pédalant, les participants activent également des lumières et de la musique qui changent pour représenter les quatre saisons. <br> 
 L'installation invite les participants à participer activement à l'œuvre, en utilisant leur propre énergie pour alimenter le système. Les lumières et la musique qui changent au fil des saisons créent une ambiance visuelle et sonore immersive, transportant les participants dans un univers poétique et évocateur.</p>
 
-
-
 <div id="image-table">
     <table>
 	    <tr>
@@ -28,5 +26,9 @@ L'installation invite les participants à participer activement à l'œuvre, en 
         </tr>
     </table>
 </div>
+<p> Vous pouvez observer par-dessus l'installation qui se trouve dans le studio. Sachez que ceci n'est aucunement l'apparence du projet final. C'est principalement un prototype pour être certain de celui-ci fonctionne parfaitement. Par exemple, lors de la présentation, ils nous ont expliqué que le vélo serait complètement modifié afin de faire dérouler l'oeuvre mais pour le moment, ils ont emprunté un vélo de spinning pour la démonstration. </p>
+<h2> Les schémas de l'installation prévue </h2>
+
+
 
 
