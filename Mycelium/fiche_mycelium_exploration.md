@@ -58,7 +58,7 @@ L'installation invite les participants à participer activement à l'œuvre, en 
 <h2> Mon jugement final</h2>
 <p> Grâce aux nombreuse informations que j'ai reçues lors de la visite, je crois que celui-ci serait mon projet préféré. J'aime beaucoup le concept de voyager parmi les quatre saisons nous faisant réfléchir sur nos impacts sur l'environnement. J'imagine que ce projet parle de ce que grâce au vélo produisant aucune pollution, nous pouvons voyager parmi le futur sans s'arrêter. J'aime aussi l'idée de mettre des chargeurs de téléphone. Grâce à cela, ce projet attirera les âmes égarés autour du cegep. Bien évidemment je rigole avec les âmes égarées. </p>
 <h2> Ce que je crois ressentire lors de l'expérimentation future </h2>
-<p> Personnellement je crois que ça me ferais réfléchir. Le fait de pédaller pour avancer dans la nature et assez curieux comme idée. Je rensetirais probablement aussi de la paix enterieur pendant un cours moment et de l'admiration pour ce projet. J'imagine deja l'installation et ce seras super. </p>
+<p> Personnellement je crois que ça me ferait réfléchir. Le fait de pédaler pour avancer dans la nature est une idée assez curieuse.  J'imagine ressentir aussi de la paix antérieure et de l'admiration pour ce projet. J'imagine déjà l'installation et j'en suis sur que ça sera super. </p>
 	
 	
 	
