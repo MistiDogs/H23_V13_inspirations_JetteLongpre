@@ -43,14 +43,23 @@ L'installation invite les participants à participer activement à l'œuvre, en 
         </tr>
 	    <h5> Ces images proviennent tous du site : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html </h5>
     </table>
-	<h2> Les cours incontournables afin d'avoir les compétences de ce projet </h2>
+	
+	
+	
+	
+	
+<br> 
+<br> 
+<br> 
+<br> 
+	<h2> Les cours incontournables afin d'avoir les compétences de ces projet </h2>
 <p> Personnellement, je n'ai pas encore suivi tous les cours sur cette technique, mais à en juger par les informations que j'ai reçues lors des présentations, je pense pouvoir deviner. Selon moi, il s'agirait des cours suivants : Interactivité ludique, Traitement audiovisuel et Objets interactifs. </p>
 		
-<p> Premièrement, le cours "Interactivité ludique" serait utile pour apprendre à concevoir une expérience interactive. L'installation utilise un vélo modifié pour encourager les participants à pédaler et à interagir avec l'œuvre, ce qui correspond parfaitement à l'objectif de ce cours.</p>
+<p> Premièrement, le cours "Interactivité ludique" serait utile pour apprendre à concevoir une expérience interactive. Par exemple, l'installation de lumasol utilise un vélo modifié pour encourager les participants à pédaler et à interagir avec l'œuvre, ce qui correspond parfaitement à l'objectif de ce cours.</p>
 	
-<p> Deuxièmement, le cours "Traitement audiovisuel" serait également important, car il permettrait aux étudiants d'apprendre à manipuler les techniques audiovisuels pour créer une expérience immersive. Dans l'oeuvre que j'ai visité, les lumières et la musique changent pour représenter les quatre saisons, ce qui nécessite une compréhension des techniques de traitement audiovisuelles. </p>
+<p> Deuxièmement, le cours "Traitement audiovisuel" serait également important, car il permettrait aux étudiants d'apprendre à manipuler les techniques audiovisuelles pour créer une expérience immersive. Plusieurs œuvres que j'ai visité ont de la musique. Cela nécessite une compréhension des techniques de traitement audiovisuelles. </p>
 
-<p> Pour terminer, le cours "Objets interactifs" serait essentiel pour apprendre à concevoir et à programmer des dispositifs interactifs tels que le vélo modifié utilisé dans l'installation. Ce cours permettrait également d'explorer les différentes façons de connecter des objets physiques à des systèmes technologique, ce qui est une compétence clé pour la réalisation de toute installation interactive. </p>
+<p> Pour terminer, le cours "Objets interactif" serait essentiel pour apprendre à concevoir et à programmer des dispositifs interactifs tels que le vélo modifié utilisé dans l'installation de lumasol. Ce cours permettrait également d'explorer les différentes façons de connecter des objets physiques à des systèmes technologiques, ce qui est une compétence clé pour la réalisation de toute installation interactive. </p>
 
 <h2> Une composante inconnue du projet </h2>
 <p> Personnellement, je n'sais pas comment fonctionne l'outil afin de détecter les mouvements. Pour plus de détails, lors de la rotation de la roue, tout le système démarre. Je n'sais pas quel détecteur de mouvements qu'il s'agit alors je me suis informé sur les détecteurs à infrarouge. Selon les informations que j'ai récupérer, celui-ci permet d'analyser la chaleur dégagée. La chaleur émise par la roue produit un rayonnement infrarouge. Grâce à ce rayonnement infrarouge, des capteurs peuvent détecter la présence du mouvement. </p>
