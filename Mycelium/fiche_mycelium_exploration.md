@@ -57,8 +57,43 @@ L'installation invite les participants à participer activement à l'œuvre, en 
 
 <h2> Le lien avec le thème Mycélium </h2>
 	
-<p> Le projet mycélium montre comment la technologie peut être utilisée pour améliorer la vie humaine tout en respectant l'environnement. En utilisant des matériaux durables tels que le mycélium, les projets peuvent être créés pour illuminer les chemins des humains tout en préservant la santé de l'écosystème. C'est l'avenir de la technologie respectueuse de l'environnement. </p>
+<p> Le projet mycélium montre comment la technologie peut être utilisée pour connecter la vie humaine tout en respectant l'echosysteme. En utilisant des matériaux durables pour résister a l'hiver, les projets peuvent être créés pour illuminer les chemins des humains tout en préservant la santé de celui-ci. </p>
+	
+<div id="image-table_03">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="medias/prototype_nexum.png" width="300"> 
+      	    </td>
+            <td style="padding:10px">
+            	<img src="medias/ecran_programme_nexum.png" width="300">
+            </td>
+            <td style="padding:10px">
+            	<img src="medias/detecteur_de_mouvement_nexum.png" width="300">
+            </td>
+        </tr>
+    </table>
+</div>
 
+<p>Vous pouvez observer dans ces images l'installation non permanente d'un projet éclairant des chaises. Lors de notre visite, nous avons pu constater que ce projet se composait d'une longue guirlande lumineuse. Lors de la présentation, les créateurs nous ont expliqué son fonctionnement : des détecteurs de mouvements seraient placés aux extrémités du chemin, de sorte que lorsque quelqu'un passerait devant, une ligne d'ampoules dans des bulles s'allumerait pour éclairer le chemin. </p>
+<h2> Les schémas de l'installation prévue </h2>
+
+<div id="image-table_04">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="medias/plan_vue_haut_edria.png" width="300"> 
+      	    </td>
+            <td style="padding:10px">
+            	<img src="medias/branchement_final_edria.png" width="300">
+            </td>
+            <td style="padding:10px">
+            	<img src="medias/Passe_lumiere_edria.png" width="300">
+            </td>
+		<h5> Ces images proviennent tous du site : https://tim-montmorency.com/2023/projets/Nexum/docs/web/preproduction.html </h5>
+        </tr>
+    </table>
+</div>
 	
 	
 	
