@@ -1,4 +1,4 @@
-<h1> Lumasol </h1> <br>
+<h1> Lumasol </h1>
 <h2> Les créateurs et créatrices de ce projets </h2>
 
 * Éloïse Gagné
@@ -6,7 +6,7 @@
 * Michaël Simard
 * Pénélope Morrisson
 
-<h2> Le lien avec le thème Mycélium </h2>
+<h2> Le lien de Lumasol avec le thème Mycélium </h2>
 <p> Personnellement, je pense que ce qui relie le thème du mycélium au projet Lumasol est un phénomène audiovisuel qui découle de sa nature technique fictive. <br> 
 En effet, lors de la présentation de ce projet, les créateurs et créatrices nous ont décrit l'oeuvre ; elle consiste en un vélo modifié qui permet de charger des USB pour les téléphones en pédalant. En pédalant, les participants activent également des lumières et de la musique qui changent pour représenter les quatre saisons. <br> 
 L'installation invite les participants à participer activement à l'œuvre, en utilisant leur propre énergie pour alimenter le système. Les lumières et la musique qui changent au fil des saisons créent une ambiance visuelle et sonore immersive, transportant les participants dans un univers poétique et évocateur.</p>
@@ -43,6 +43,22 @@ L'installation invite les participants à participer activement à l'œuvre, en 
         </tr>
 	    <h5> Ces images proviennent tous du site : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html </h5>
     </table>
+
+
+<h1> EDRIA </h1>
+<h2> Les créateurs et créatrices de ce projets </h2>
+
+* Elwin Durand
+* Loic Delorme
+* Dominic Roberts
+* Gabriel Leblanc
+* Meryem Berbiche
+* Jean-Christophe
+
+<h2> Le lien avec le thème Mycélium </h2>
+	
+<p> Le projet mycélium montre comment la technologie peut être utilisée pour améliorer la vie humaine tout en respectant l'environnement. En utilisant des matériaux durables tels que le mycélium, les projets peuvent être créés pour illuminer les chemins des humains tout en préservant la santé de l'écosystème. C'est l'avenir de la technologie respectueuse de l'environnement. </p>
+
 	
 	
 	
