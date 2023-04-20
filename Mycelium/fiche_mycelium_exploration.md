@@ -121,7 +121,7 @@ L'installation invite les participants à participer activement à l'œuvre, en 
 <p> Personnellement je crois que ça me ferait réfléchir. Le fait de pédaler pour avancer dans la nature est une idée assez curieuse.  J'imagine ressentir aussi de la paix antérieure et de l'admiration pour ce projet. J'imagine déjà l'installation et j'en suis sur que ça sera super. </p>
 	
 	
-	
+	o
 
 
 
