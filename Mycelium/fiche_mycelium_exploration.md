@@ -142,19 +142,53 @@ Nous pouvons observer la connexion entre ce projet et l'interaction de groupe qu
     </table>
 </div>
 
+<h1> Echomarine </h1>	
+<h2> Les créateurs et créatrices de ce projets </h2>
+
+* Florence Lapierre
+* Natacha Abdallah
+* Tracy Gua
+* Maria Laura Coronel
 	
+<h2> Le lien avec le thème Mycélium </h2>
+Je ne suis pas sûr de comprendre le lien avec le mycélium, mais j'imagine que ce projet vise à établir une connexion entre l'homme et la nature. En effet, étant donné que ce projet aborde la question des animaux en voie de disparition, il cherche à sensibiliser davantage le public à la préservation de la nature et de la biodiversité. Cette installation peut être considérée comme un moyen de créer une prise de conscience chez les spectateurs en leur montrant de manière ludique et artistique les conséquences de l'impact de l'homme sur l'environnement et les espèces qui y vivent.
 	
+<div id="image-table_07">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="medias/projecteur_echomarine.jpg" width="300"> 
+      	    </td>
+            <td style="padding:10px">
+            	<img src="medias/sous_ocean_echomarine.jpg" width="300">
+            </td>
+            <td style="padding:10px">
+            	<img src="medias/tablette_controle_echomarine.jpg" width="300">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<p> En observant ces images, nous pouvons voir qu'il s'agit d'une petite salle entourée d'eau, éclairée par des projecteurs. Les créateurs du projet nous ont expliqué que l'objectif était de faire apparaître des animations d'animaux en voie de disparition lorsqu'on cliquera sur leur description affichée sur une tablette. Cette installation vise à sensibiliser le public à la préservation des espèces menacées et à leur habitat naturel. </p>
 	
-	
-	
-	
-	
-	
-<br> 
-<br> 
-<br> 
-<br> 
-	<h2> Les cours incontournables afin d'avoir les compétences de ces projet </h2>
+<div id="image-table_08">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="medias/branchement_final_echomarine.png" width="300"> 
+      	    </td>
+            <td style="padding:10px">
+            	<img src="medias/exemple_projet_echomarine.png" width="300">
+            </td>
+            <td style="padding:10px">
+            	<img src="medias/tablette_echomarine.png" width="300">
+            </td>
+		 <h5> Ces images proviennent tous du site : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html </h5>
+        </tr>
+    </table>
+</div>
+
+<h2> Les cours incontournables afin d'avoir les compétences de ces projet </h2>
 <p> Personnellement, je n'ai pas encore suivi tous les cours sur cette technique, mais à en juger par les informations que j'ai reçues lors des présentations, je pense pouvoir deviner. Selon moi, il s'agirait des cours suivants : Interactivité ludique, Traitement audiovisuel et Objets interactifs. </p>
 		
 <p> Premièrement, le cours "Interactivité ludique" serait utile pour apprendre à concevoir une expérience interactive. Par exemple, l'installation de lumasol utilise un vélo modifié pour encourager les participants à pédaler et à interagir avec l'œuvre, ce qui correspond parfaitement à l'objectif de ce cours.</p>
@@ -167,13 +201,6 @@ Nous pouvons observer la connexion entre ce projet et l'interaction de groupe qu
 <p> Personnellement, je n'sais pas comment fonctionne l'outil afin de détecter les mouvements. Pour plus de détails, lors de la rotation de la roue, tout le système démarre. Je n'sais pas quel détecteur de mouvements qu'il s'agit alors je me suis informé sur les détecteurs à infrarouge. Selon les informations que j'ai récupérer, celui-ci permet d'analyser la chaleur dégagée. La chaleur émise par la roue produit un rayonnement infrarouge. Grâce à ce rayonnement infrarouge, des capteurs peuvent détecter la présence du mouvement. </p>
 <h5> Les informations ont été récuperer depuis le site : https://www.nexecur.fr/detecteur-de-mouvement-infrarouge-comment-fonctionne#:~:text=Le%20d%C3%A9tecteur%20de%20mouvement%20est,d%C3%A9tecter%20la%20pr%C3%A9sence%20d'intrus </h5>
 <h2> Mon jugement final</h2>
-<p> Grâce aux nombreuse informations que j'ai reçues lors de la visite, je crois que celui-ci serait mon projet préféré. J'aime beaucoup le concept de voyager parmi les quatre saisons nous faisant réfléchir sur nos impacts sur l'environnement. J'imagine que ce projet parle de ce que grâce au vélo produisant aucune pollution, nous pouvons voyager parmi le futur sans s'arrêter. J'aime aussi l'idée de mettre des chargeurs de téléphone. Grâce à cela, ce projet attirera les âmes égarés autour du cegep. Bien évidemment je rigole avec les âmes égarées. </p>
+<p> Grâce aux nombreuse informations que j'ai reçues lors de la visite, je crois que lumasol serait mon projet préféré. J'aime beaucoup le concept de voyager parmi les quatre saisons nous faisant réfléchir sur nos impacts sur l'environnement. J'imagine que ce projet parle de ce que grâce au vélo produisant aucune pollution, nous pouvons voyager parmi le futur sans s'arrêter. J'aime aussi l'idée de mettre des chargeurs de téléphone. Grâce à cela, ce projet attirera les âmes égarés autour du cegep. Bien évidemment je rigole avec les âmes égarées. </p>
 <h2> Ce que je crois ressentire lors de l'expérimentation future </h2>
 <p> Personnellement je crois que ça me ferait réfléchir. Le fait de pédaler pour avancer dans la nature est une idée assez curieuse.  J'imagine ressentir aussi de la paix antérieure et de l'admiration pour ce projet. J'imagine déjà l'installation et j'en suis sur que ça sera super. </p>
-	
-	
-	o
-
-
-
-
