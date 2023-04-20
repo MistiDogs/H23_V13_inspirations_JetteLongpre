@@ -45,15 +45,13 @@ L'installation invite les participants à participer activement à l'œuvre, en 
     </table>
 
 
-<h1> EDRIA </h1>
+<h1> Nexum </h1>
 <h2> Les créateurs et créatrices de ce projets </h2>
 
-* Elwin Durand
-* Loic Delorme
-* Dominic Roberts
-* Gabriel Leblanc
-* Meryem Berbiche
-* Jean-Christophe
+* Sébastien Reilly
+* Sabrina Laforest
+* Alexandre Daniel
+* Maxime Des Lauriers
 
 <h2> Le lien avec le thème Mycélium </h2>
 	
@@ -94,6 +92,59 @@ L'installation invite les participants à participer activement à l'œuvre, en 
         </tr>
     </table>
 </div>
+	
+<h1> EDRIA </h1>
+<h2> Les créateurs et créatrices de ce projets </h2>
+
+* Elwin Durand
+* Loic Delorme
+* Dominic Roberts
+* Gabriel Leblanc
+* Meryem Berbiche
+* Jean-Christophe
+	
+<h2> Le lien avec le thème Mycélium </h2>
+
+Nous pouvons observer la connexion entre ce projet et l'interaction de groupe que les gens peuvent avoir avec cette technologie naturelle. En effet, en étant autour des piliers, des effets apparaissent, créant ainsi des connexions entre les personnes présentes. Cette installation met en lumière la façon dont la technologie peut rassembler les gens, et comment elle peut être utilisée pour renforcer les interactions sociales et la communauté.
+	
+<div id="image-table_05">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="medias/bar_lumineuse_edria.jpg" width="300"> 
+      	    </td>
+            <td style="padding:10px">
+            	<img src="medias/base_pilier_edria.jpg" width="300">
+            </td>
+            <td style="padding:10px">
+            	<img src="medias/haut_parleur_edria.jpg" width="300">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<p> En observant ces images, nous pouvons constater qu'il s'agit simplement d'un poteau métallique, équipé d'un éclairage et d'un haut-parleur. Toutefois, il y a bien plus d'intérêt que cela. En effet, lors de la présentation, les créateurs nous ont expliqué que cette installation était destinée à un groupe de personnes. Le projet consiste à jouer de la musique et des lumières lorsque quelqu'un se place sur l'un des quatre côtés du poteau. Chaque côté possède des couleurs et des sons différents, permettant ainsi de les connecter lorsque quatre personnes sont présentes autour de l'installation. </p>
+	
+<div id="image-table_06">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="medias/tubes_opal_edria.png" width="300"> 
+      	    </td>
+            <td style="padding:10px">
+            	<img src="medias/schema_poteau_central_edria.png" width="300">
+            </td>
+            <td style="padding:10px">
+            	<img src="medias/schema_de_branchement_general_edria.png" width="300">
+            </td>
+		 <h5> Ces images proviennent tous du site : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html </h5>
+        </tr>
+    </table>
+</div>
+
+	
+	
+	
 	
 	
 	
