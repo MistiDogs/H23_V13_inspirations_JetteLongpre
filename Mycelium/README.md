@@ -1,1 +1,1 @@
-
+Le dossier intitulé "Mycelium" rassemble mes visites, mes notes, les photos et mes impressions finales sur l'un des projets présentés lors de l'événement Mycelium. N'hésitez pas à y jeter un coup d'œil pour découvrir mes observations détaillées et mes photos. Vous êtes la bienvenue pour consulter mes notes et voir ce que j'ai pensé du projet.
