@@ -94,39 +94,17 @@ Cette œuvre d'art est située à l'extérieur du Collège Montmorency. Elle occ
 <h3>Expérience vécue</h3>
 L'œuvre s'active lorsque le visiteur passe devant les détecteurs de mouvement, situés aux extrémités des chemins. Il est important de suivre le chemin désiré et de ne pas passer entre les chemins de terre, car cela risquerait de ne pas être détecté par l'œuvre. En résumé, il suffit de passer devant les détecteurs et de profiter du moment en suivant le chemin choisi. Personnellement, lors de ma visite, j'ai beaucoup apprécié cette idée. Bien qu'elle puisse sembler banale, il faut la voir pour la ressentir. Ne pas emprunter ce chemin serait une grande perte, j'ai adoré le moment que j'ai passé là-bas.
 
-	<h3> Ce que j'ai aimé : </h3>
+<h3> Ce que j'ai aimé : </h3>
+	
 J'apprécie également l'idée d'illuminer, littéralement, les chemins que nous empruntons au quotidien. Cela peut sembler métaphorique, mais j'aime le fait que plutôt que de tout changer, nous améliorons simplement ce que nous parcourons.
 
-	<h3> Ce que je n'aime pas trop </h3>
+<h3> Ce que je n'aime pas trop </h3>
+	
 Même s'il n'avait pas le choix, je n'aurais pas présenté ce projet pendant l'hiver. Bien qu'il réchauffe nos cœurs pendant une période glaciale de l'année, je pense qu'il serait moins difficile à reproduire pendant l'été, nécessitant ainsi moins de travail. Cela étant dit, je les félicite d'avoir tout de même réussi à surmonter cette épreuve.
 
-	<h3> Référence</h3> 
+<h3> Référence</h3> 
 
 	
 * https://tim-montmorency.com/2023/
 * https://www.amazon.ca/-/fr/Bo%C3%AEte-d%C3%A9rivation-%C3%A9lectrique-ext%C3%A9rieure-%C3%A9lectroniques/dp/B08JDX7Z8M?th=1
 * https://polelavalartnumerique.com/evenements/inauguration-espace-vivant/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
- 
-  
-
-  
-
-
